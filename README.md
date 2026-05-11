@@ -65,23 +65,7 @@ To address the wait time problem specifically, KCAP leadership should conduct a 
 
 Ford KCAP should implement mandatory service standards training for all security, gate, and dock personnel who regularly interact with third-party drivers and vendors, framing these workers not as incidental to the plant's mission but as frontline representatives of the Ford brand. Given that the facility's public Google rating of 3.1 stars is driven substantially by this external logistics population rather than traditional consumers, improving the driver experience is not merely a hospitality concern; it is a reputational and operational priority that directly reflects on Ford's ability to attract and retain reliable logistics partnerships.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-References
+### References
 Google. (n.d.). Ford Kansas City Assembly Plant (KCAP). Google Maps. https://www.google.com/maps/place/Ford+Kansas+City+Assembly+Plant/@39.20451,-94.4833593,16z/data=!4m16!1m9!3m8!1s0x87c0f8e555555555:0xcb1a8a8252a8e119!2sFord+Kansas+City+Assembly+Plant!8m2!3d39.2045059!4d-94.4784884!9m1!1b1!16zL20vMGY3OHli!3m5!1s0x87c0f8e555555555:0xcb1a8a8252a8e119!8m2!3d39.2045059!4d-94.4784884!16zL20vMGY3OHli?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D 
 Google. (n.d.). Place ID Finder. Google Maps Platform. https://developers.google.com/maps/documentation/javascript/examples/places-placeid-finder 
 Google Search API. SerpApi. (n.d.). https://serpapi.com/ 
